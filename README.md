@@ -1,1 +1,1 @@
-# havenly
+# Havenly app
