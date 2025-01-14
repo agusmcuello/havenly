@@ -1,3 +1,5 @@
-# Havenly - Furniture E-commerce
+# Havenly
 
-## Link ### https://havenly-mu.vercel.app/
+## Furniture E-commerce
+
+### Link - https://havenly-mu.vercel.app/
